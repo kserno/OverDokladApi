@@ -1,0 +1,3 @@
+include ':overdoklad_api'
+include ':app'
+rootProject.name = "Over Doklad Api"
